@@ -19,4 +19,4 @@ It's built in Python programming Language
 
 ![image](https://user-images.githubusercontent.com/78680216/207003094-506748e9-29b2-4af1-88d1-379f77da901a.png)
 
-<img src="https://user-images.githubusercontent.com/78680216/207001125-bc7bd250-e02d-4f07-966d-269a2e218815.jpg" width="300" height="280">
+<img src="https://user-images.githubusercontent.com/78680216/207001125-bc7bd250-e02d-4f07-966d-269a2e218815.jpg" width="500" height="280">
